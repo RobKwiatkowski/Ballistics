@@ -1,2 +1,4 @@
-# Equations are taken from the Internet and partially modified. Unfortunately they are not verified but give results close to the expected ones.
-# Next step in dev: GUI
+# Ballistics - range and height calculator
+This script calculates the trajectory of the projectile including air resistance.
+
+The quadratic drag equation is considered.
